@@ -22,6 +22,9 @@
       <kudo>HiDpiIcon</kudo>
     </kudos>
     <developer_name translate="no">Lains</developer_name>
+    <developer id="io.github.lainsce">
+        <name translate="no">Lains</name>
+    </developer>
     <url type="homepage">https://github.com/lainsce/dot-matrix/</url>
     <url type="donation">https://ko-fi.com/lainsce/</url>
     <url type="bugtracker">https://github.com/lainsce/dot-matrix/issues</url>
