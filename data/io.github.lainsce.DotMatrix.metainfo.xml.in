@@ -3,7 +3,7 @@
     <id>io.github.lainsce.DotMatrix</id>
     <metadata_license>CC0</metadata_license>
     <project_license>GPL-3.0+</project_license>
-    <name translatable="no">Dot Matrix</name>
+    <name translate="no">Dot Matrix</name>
     <summary>The creativity playground of lines and curves</summary>
     <description>
         <p>Make out icons, glyphs, or anything you can create with lines in this grid of dots</p>
@@ -21,11 +21,14 @@
       <kudo>ModernToolkit</kudo>
       <kudo>HiDpiIcon</kudo>
     </kudos>
-    <developer_name translatable="no">Lains</developer_name>
+    <developer_name translate="no">Lains</developer_name>
+    <developer id="io.github.lainsce">
+        <name translate="no">Lains</name>
+    </developer>
     <url type="homepage">https://github.com/lainsce/dot-matrix/</url>
     <url type="donation">https://ko-fi.com/lainsce/</url>
     <url type="bugtracker">https://github.com/lainsce/dot-matrix/issues</url>
-    <url type="donation">https://www.patreon.com/lainsce/</url>
+    <url type="vcs-browser">https://github.com/lainsce/dot-matrix/</url>
     <url type="translate">https://github.com/lainsce/dot-matrix/blob/main/po/README.md</url>
     <screenshots>
         <screenshot type="default">
@@ -48,7 +51,7 @@
     <translation type="gettext">io.github.lainsce.DotMatrix</translation>
     <releases>
         <release version="3.2.0" date="2022-04-20">
-           <description>
+           <description translate="no">
                <p>Release: Yellow Sunset</p>
                <ul>
                   <li>Changed: UI now follows my own style that complements that of Adwaita, called Solo.</li>
@@ -56,7 +59,7 @@
            </description>
         </release>
         <release version="3.1.3" date="2022-02-11">
-           <description>
+           <description translate="no">
                <p>Release: Blue Noon</p>
                <ul>
                    <li>Changed: UI colors.</li>
@@ -64,7 +67,7 @@
            </description>
         </release>
         <release version="3.1.2" date="2021-12-03">
-           <description>
+           <description translate="no">
                <p>Release: Blue Noon</p>
                <ul>
                    <li>Added: Redo button.</li>
@@ -73,7 +76,7 @@
            </description>
         </release>
         <release version="3.1.1" date="2021-12-03">
-           <description>
+           <description translate="no">
                <p>Release: Blue Noon</p>
                <ul>
                    <li>Added: Redo button.</li>
@@ -82,7 +85,7 @@
            </description>
         </release>
         <release version="3.1.0" date="2021-11-28">
-           <description>
+           <description translate="no">
                <p>Release: Orange Sunrise</p>
                <ul>
                    <li>Changed: Using more libadwaita recent UI styling.</li>
@@ -90,7 +93,7 @@
            </description>
         </release>
         <release version="3.0.2" date="2021-08-20">
-           <description>
+           <description translate="no">
                <p>Release: Cyan Sunset</p>
                <ul>
                    <li>Changed: Using libadwaita recent UI styling.</li>
@@ -98,7 +101,7 @@
            </description>
         </release>
         <release version="3.0.1" date="2021-04-25">
-           <description>
+           <description translate="no">
                <p>Release: A New UI Hope</p>
                <ul>
                    <li>New: UI is now following efforts made by me on Notejot.</li>
@@ -107,7 +110,7 @@
            </description>
         </release>
         <release version="3.0.0" date="2021-04-18">
-           <description>
+           <description translate="no">
                <p>Release: Hello, GNOME!</p>
                <ul>
                    <li>Port to GNOME HIG and minor fixes.</li>
