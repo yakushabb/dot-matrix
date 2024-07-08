@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.github.lainsce.DotMatrix\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-15 23:19+0200\n"
+"POT-Creation-Date: 2024-07-08 15:04+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,11 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:6
-#: data/io.github.lainsce.DotMatrix.desktop.in:3
-msgid "Dot Matrix"
-msgstr ""
 
 #: data/io.github.lainsce.DotMatrix.metainfo.xml.in:7
 msgid "The creativity playground of lines and curves"
@@ -50,78 +45,12 @@ msgid ""
 "Ctrl + Shift + X"
 msgstr ""
 
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:24
-msgid "Lains"
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:32
+#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:36
 msgid "Default view"
 msgstr ""
 
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:52
-msgid "Release: Yellow Sunset"
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:54
-msgid ""
-"Changed: UI now follows my own style that complements that of Adwaita, "
-"called Solo."
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:60
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:68
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:77
-msgid "Release: Blue Noon"
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:62
-msgid "Changed: UI colors."
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:70
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:79
-msgid "Added: Redo button."
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:71
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:80
-msgid "Added: Settings dialog with canvas size customizing."
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:86
-msgid "Release: Orange Sunrise"
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:88
-msgid "Changed: Using more libadwaita recent UI styling."
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:94
-msgid "Release: Cyan Sunset"
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:96
-msgid "Changed: Using libadwaita recent UI styling."
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:102
-msgid "Release: A New UI Hope"
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:104
-msgid "New: UI is now following efforts made by me on Notejot."
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:105
-msgid "Fixed: Handles dragging with a mouse/pen for less bugs."
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:111
-msgid "Release: Hello, GNOME!"
-msgstr ""
-
-#: data/io.github.lainsce.DotMatrix.metainfo.xml.in:113
-msgid "Port to GNOME HIG and minor fixes."
+#: data/io.github.lainsce.DotMatrix.desktop.in:3
+msgid "Dot Matrix"
 msgstr ""
 
 #: data/io.github.lainsce.DotMatrix.desktop.in:4
@@ -132,7 +61,7 @@ msgstr ""
 msgid "Matrix;Vector;Drawing;Grid;"
 msgstr ""
 
-#: data/io.github.lainsce.DotMatrix.gschema.xml:5
+#: data/io.github.lainsce.DotMatrix.gschema.xml:5 data/ui/prefs.ui:26
 msgid "Canvas Width"
 msgstr ""
 
@@ -140,7 +69,7 @@ msgstr ""
 msgid "The canvas width."
 msgstr ""
 
-#: data/io.github.lainsce.DotMatrix.gschema.xml:10
+#: data/io.github.lainsce.DotMatrix.gschema.xml:10 data/ui/prefs.ui:39
 msgid "Canvas Height"
 msgstr ""
 
@@ -210,6 +139,14 @@ msgstr ""
 
 #: data/ui/menu.ui:29
 msgid "Line Thickness"
+msgstr ""
+
+#: data/ui/prefs.ui:15
+msgid "General"
+msgstr ""
+
+#: data/ui/prefs.ui:18
+msgid "Glyph Canvas"
 msgstr ""
 
 #: data/ui/shortcuts.ui:12
